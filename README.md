@@ -7,7 +7,8 @@ Una vez bajado el .zip, en la carpeta ejecutar (en la consola de node):
 	npm install
 
 Una vez que termino, si todo anduvo bien:
-	npm start
+	npm start (OJO!!! esto no anda...)
+	node index.js (Esto si!)
 
 Despues, en el browser:
 	localhost:3000
